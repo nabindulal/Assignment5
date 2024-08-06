@@ -1,0 +1,49 @@
+/* Style sheet created by: 
+Name: Nabin Dulal
+Date: Aug/06/2024
+*/
+
+/* Style for body specifies a background color */
+body {
+	background-color: #669999;
+}
+
+/* Style for the container element */
+#container {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Style for the footer element */
+footer {
+	font-size: .70em;
+	text-align: center;
+}
+
+/* Style for the table element to centre the table and set the width */
+table { 
+	width: 80%; 
+	margin-left: auto; 
+	margin-right: auto; 
+	}
+	
+	/* Style to collapse border and apply the padding */
+	table, tr, th, td { 
+	border-collapse: collapse;
+	border: solid 0.1em #000000; 
+	padding: 1em;
+	}
+	
+	/* Center the text within the table */
+	td {
+	text-align: center;
+	}
+	
+	/* Style for caption element */
+	caption {
+	font-size: 2em; 
+	padding: 1em;
+	margin-top: 1em;
+	}
+	
